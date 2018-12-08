@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f9fcdd</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="myPink">#fa5d70</color>
+    <color name="transPink">#bffa5d70</color>
+
+    <color name="myBlue">#5bc7ba</color>
+    <color name="transBlue">#805bc7ba</color>
+
+</resources>
